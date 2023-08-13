@@ -1,0 +1,12 @@
+canvas
+{
+    border: #f71c1c 6px solid;
+    margin: auto;
+    margin-top: 2em;
+}
+
+@font-face
+{
+    font-family: 'Formula_1';
+    src: url('../assets/fonts/Formula_1.otf');
+}
